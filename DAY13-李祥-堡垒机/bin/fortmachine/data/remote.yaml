@@ -1,0 +1,10 @@
+root:
+   password: 123456
+   type: auth-password
+
+root:
+   password: ""
+   type: auth-key
+mysql:
+   password: 123456
+   type: auth-password
